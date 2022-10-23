@@ -54,6 +54,8 @@ WHERE f.drk = 1
 GROUP BY e.name
 ORDER BY e.name;
 
+
+
 # SOLUTION 2
 SELECT name,
        COUNT(email)                                                          AS total_visits,

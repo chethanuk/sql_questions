@@ -13,3 +13,5 @@ docker run --detach --name=dev-mysql -p 52000:3306  --env="MYSQL_ROOT_PASSWORD=h
 
 
 
+> 20 - LOW
+16 to 20 - 
